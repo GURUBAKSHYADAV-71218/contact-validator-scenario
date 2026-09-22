@@ -1,9 +1,13 @@
 # contact-validator-scenario# wrokflow practice
 # Contact Validator Scenario
 
-A Python-based contact validation project designed to practice automated testing, pull request workflows, and GitHub Actions CI/CD.
 
 
+## Overview
+
+This project validates contact information such as phone numbers and provides a test suite to verify the expected behavior.
+
+The repository also includes GitHub Actions workflows for automatically running tests and checking code coverage.
 
 ## Project Structure
 
